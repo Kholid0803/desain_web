@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+article {
+    margin-right: 50px;
+}
+
+.title {
+    font-size: 2rem;
+}
+
+.sub-title {
+    color: gray;
+}
+
+.content {
+    font-size: 1.1rem;
+}
+
+.author {
+    color: rgb(86, 139, 7);
+}
+
+.categories {
+    margin-top: 180px;
+}
+
+.span-cate {
+    background-color: rgb(86, 139, 7);
+    color: white;
+    border-radius: 15px;
+    padding: 1px 5px;
+    margin-left: 5px;
+}
+
+aside {
+    margin-right: 30px;
+}
+
+iframe {
+    height: 40vh;
+    margin-top: 20px;
+}
